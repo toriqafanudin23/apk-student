@@ -1,0 +1,21 @@
+{
+  "editor.defaultFormatter": "golang.go",
+  "window.zoomLevel": 0.5,
+  "workbench.colorTheme": "Noctis Obscuro",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.fontSize": 18,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 18,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "on",
+    "strings": "on"
+  },
+  "editor.formatOnSave": true,
+
+  // Pengaturan spesifik untuk Go
+  "[go]": {
+    "editor.defaultFormatter": "golang.go",
+    "editor.formatOnSave": true
+  }
+}
